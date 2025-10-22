@@ -1,2 +1,13 @@
-# cv-karen-palacios
-Técnico en sistemas con más de 6 años de experiencia en atención al cliente y soporte técnico. He desarrollado habilidades en liderazgo, comunicación y trabajo en equipo. Busco nuevos retos profesionales donde pueda aportar mis conocimientos y seguir creciendo.
+# Hoja de Vida - Karen Palacios
+
+Este proyecto presenta mi hoja de vida en formato web, con un diseño moderno, responsivo y con un estilo visual enfocado en el ámbito tecnológico.  
+Fue desarrollado utilizando HTML, CSS y JavaScript.
+
+## Estructura del proyecto
+
+El sitio está compuesto por los siguientes archivos:
+
+- `index.html` → Contiene la estructura principal de la hoja de vida.  
+- `style.css` → Incluye los estilos y efectos visuales del diseño.  
+- `script.js` → Controla animaciones y funciones interactivas.  
+- `images/Foto 3x4.jpg` → Imagen de perfil utilizada en el encabezado.
